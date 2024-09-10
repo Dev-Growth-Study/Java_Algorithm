@@ -1,4 +1,4 @@
-package SWExpertAcademy.D3;
+package SWExpertAcademy.D3.SW_1206;
 
 import java.io.BufferedReader;
 import java.io.IOException;
